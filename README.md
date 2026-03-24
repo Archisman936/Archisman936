@@ -12,14 +12,14 @@
 
 ## 🧰 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,django,tensorflow,pytorch,sklearn,docker,aws,git,github,mysql,postgres,tailwind,css,javascript&perline=6" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,django,tensorflow,pytorch,sklearn,docker,aws,git,github,mysql,postgres,tailwind,css,javascript&perline=9" />
 </p>
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
-<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50" height="50"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/>
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48"/>
 </p>
 
 ---
