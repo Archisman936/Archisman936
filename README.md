@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1500&color=00FFAA&center=true&vCenter=true&width=600&lines=%3C%2F%3E+Archisman+Chakraborty" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1500&color=00FFAA&vCenter=true&width=600&lines=%3C%2F%3E+Archisman+Chakraborty" />
 
-<p align="center">
+<p>
 <code>ML Dev</code> • <code>FastAPI Backend</code> • <code>Full Stack</code> • <code>Aspiring MLOps</code>
 </p>
 
-<p align="center">
+<p>
 👋 ML Developer with TensorFlow, PyTorch & Scikit-learn | FastAPI backend engineer building scalable APIs, exploring full stack & MLOps.
 </p>
 
@@ -14,11 +12,35 @@
 
 ## 🧰 Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=flask" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=django" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sklearn" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" /></td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,django,tensorflow,pytorch,sklearn,docker,aws,git,github,mysql,postgres,oracle,html,css,tailwind,opencv" />
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=oracle" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /></td>
+</tr>
 
-</div>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=opencv" /></td>
+</tr>
+</table>
 
 ---
 
@@ -34,12 +56,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archisman936&theme=gruvbox&hide_border=false&layout=compact" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Archisman936&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" />
 </p>
