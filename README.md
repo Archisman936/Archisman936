@@ -40,6 +40,9 @@
 <td align="center">
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48" height="48"/>
 </td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50" height="50"/>
+</td>
 </tr>
 </table>
 
