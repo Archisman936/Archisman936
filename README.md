@@ -33,6 +33,13 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=javascript" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Jupyter</td>
+</tr>
+
+<tr>
+<td align="center">
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48" height="48"/><br>Colab
+</td>
 </tr>
 </table>
 
