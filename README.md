@@ -32,7 +32,6 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
-<td></td>
 </tr>
 </table>
 
