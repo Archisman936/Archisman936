@@ -9,45 +9,18 @@
 </p>
 
 ---
+
 ## 🧰 Tech Stack
 
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=cpp" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=flask" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=django" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=sklearn" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" /></td>
-</tr>
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,django,tensorflow,pytorch,sklearn,docker,aws,git,github,mysql,postgres,tailwind,css,javascript&perline=6" />
+</p>
 
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=aws" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=javascript" /></td>
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48" height="48"/>
-</td>
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50" height="50"/>
-</td>
-</tr>
-</table>
-
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50" height="50"/>
+</p>
 
 ---
 
