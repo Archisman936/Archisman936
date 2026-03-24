@@ -30,14 +30,9 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=github" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=oracle" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /></td>
-<td></td>
-</tr>
-
-<tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
+<td></td>
 </tr>
 </table>
 
