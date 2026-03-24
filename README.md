@@ -39,6 +39,14 @@
 
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=opencv" /></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
 </tr>
 </table>
 
