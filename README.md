@@ -17,10 +17,9 @@
 </p>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="45"/>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" style="margin:5px"/>
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" style="margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" style="margin:5px"/>
 </p>
 
 ---
