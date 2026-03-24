@@ -13,7 +13,7 @@
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,django,tensorflow,pytorch,sklearn,docker,aws,git,github,mysql,postgres,tailwind,css,javascript&perline=9" height="80"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,django,tensorflow,pytorch,sklearn,docker,aws,git,github,mysql,postgres,tailwind,css,javascript&perline=9" height="90"/>
 </p>
 
 ---
