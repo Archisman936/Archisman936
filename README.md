@@ -33,12 +33,12 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=javascript" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Jupyter</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" /></td>
 </tr>
 
 <tr>
 <td align="center">
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48" height="48"/><br>Colab
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48" height="48"/>
 </td>
 </tr>
 </table>
