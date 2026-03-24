@@ -33,7 +33,9 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=javascript" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" /></td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
+</td>
 </tr>
 
 <tr>
