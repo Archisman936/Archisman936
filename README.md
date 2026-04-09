@@ -15,10 +15,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,django,tensorflow,pytorch,sklearn,docker,aws,git,github,mysql,postgres,tailwind,css,javascript&perline=9" height="120"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Archisman936&theme=gruvbox&hide_border=false&layout=compact" />
-</p>
