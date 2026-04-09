@@ -20,5 +20,5 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archisman936&theme=gruvbox&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Archisman936&theme=gruvbox&hide_border=false&layout=compact" />
 </p>
